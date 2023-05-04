@@ -14,3 +14,7 @@ git reset --hard 9e424bdf50cbb2d4e0fcc12e18ac30e0b7e2cc6e
 git push -f
 
 ![image](https://user-images.githubusercontent.com/79695993/236128444-6a06a068-9ad2-4947-ab08-876e46e21131.png)
+
+#helpful video
+
+https://www.youtube.com/watch?v=KEfQm2robRo&pp=ygUZZ2l0aHViIGJhY2sgdG8gb2xkIGNvbW1pdA%3D%3D
